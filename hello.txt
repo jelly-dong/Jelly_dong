@@ -1,1 +1,4 @@
-的看法剪短发打飞机啊大捡垃圾
+public class Hello{
+
+  
+}
