@@ -1,1 +1,3 @@
-Hello2---内容更新了
+public static void sayHello(String msg){
+	System.out.println(msg);
+}
